@@ -23,4 +23,4 @@ This project implements an adaptive problem selection system for high school com
 4. **Problem Difficulty and Selection**: Evaluates and selects problems based on difficulty and student knowledge.
 5. **Outlier Detection**: Handles anomalous data to maintain system reliability.
 
-For more details on the implementation and mathematical models used, refer to the [detailed documentation](link-to-document).
+For more details on the implementation and mathematical models used, refer to the [detailed documentation](AdaptiveBKT.pdf).
