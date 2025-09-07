@@ -1,6 +1,7 @@
 # Adaptive Problem Selection in Competitive Physics
 
-This project implements an adaptive problem selection system for high school competitive physics. The system aims to dynamically recommend problems to students based on their performance history and statistical analysis of previous students’ performance.
+This project implements an adaptive problem selection system for high school competitive physics. The system aims to dynamically recommend problems to students based on their performance history and statistical analysis of previous students’ performance. Demo video:
+https://youtu.be/BoQS9gOJu1Y?si=bC5-vsKJS09jAY2U 
 
 ## Key Features
 
